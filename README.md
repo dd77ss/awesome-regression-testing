@@ -119,7 +119,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Visual Regression Tracker](https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker) - Open Source selfhosted service for visual regression testing
 - [VisWiz.io](https://www.viswiz.io) - Flexible visual regression testing service.
 - [VRTs - Visual Regression Tests](https://bleech.de/en/products/visual-regression-tests/) – WordPress plugin auto-updating screenshots on content updates, preventing false positives.
-
+- [Zyntra](https://zyntra.app/) – Unlimited e-mail inboxes with API/UI access. Catch OTPs, reset links, and sign-up emails in your test flows.
 ## Blog posts  (a-z↓)
 
 - [Angela Riggs: Visual Regression Testing with BackstopJS](https://www.metaltoad.com/blog/visual-regression-testing-backstopjs) - Tutorial using BackstopJS.
